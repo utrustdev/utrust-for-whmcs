@@ -38,14 +38,10 @@ Find out more about Utrust at [utrust.com](https://utrust.com).
 ### On the WHMCS side
 
 1. Go to your WHMCS admin dashboard.
-2. Navigate to the _Modules and Services_ -> _Modules and Services_.
-3. Search for _Utrust_ in the list and click _Configure_
-4. Add your `Api Key` and `Webhook Secret` and click Save.
-
-5. Go to your WHMCS admin dashboard.
-6. Navigate to _System Settings_ -> _Payment Gateways_ -> _All Payment Gateways_ and activate Utrust.
-7. Navigate to _System Settings_ -> _Payment Gateways_ -> _Manager Existing Gateways_.
-8. Add your `Api Key` and `Webhook Secret` and Save.
+2. Navigate to _System Settings_ -> _Payment Gateways_ -> _All Payment Gateways_ and activate Utrust.
+3. Navigate to _System Settings_ -> _Payment Gateways_ -> _Manager Existing Gateways_.
+4. Add your `Api Key` and `Webhook Secret`
+5. Click Save.
 
 ## Support
 
