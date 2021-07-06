@@ -28,7 +28,7 @@ Find out more about Utrust at [utrust.com](https://utrust.com).
 1. Go to [Utrust merchant dashboard](https://merchants.utrust.com).
 2. Log in or sign up if you didn't yet.
 3. On the left sidebar choose _Integrations_.
-4. Select _Custom API_ and click the button _Generate Credentials_.
+4. Select _WHMCS_ and click the button _Generate Credentials_.
 5. You will see now your `Api Key` and `Webhook Secret`, save them somewhere safe temporarily.
 
    :warning: You will only be able to see the `Webhook Secret` once, after refreshing or changing page it will be no longer available to copy; if needed, you can always generate new credentials.
