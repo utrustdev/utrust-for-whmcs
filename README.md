@@ -1,15 +1,18 @@
-![Utrust integrations](https://user-images.githubusercontent.com/1558992/67495646-1e356b00-f673-11e9-8854-1beac877c586.png)
+![xMoney Crypto integrations](https://github.com/user-attachments/assets/66de9ccd-adab-456c-a673-09c20d182c4c)
 
-# Utrust for WHMCS
+# xMoney Crypto for WHMCS
 
-Accept Bitcoin, Ethereum, Utrust Token and other cryptocurrencies directly on your system with the Utrust payment gateway for WHMCS.
-Utrust is cryptocurrency agnostic and provides fiat settlements.
-The Utrust plugin extends WHMCS allowing you to take cryptocurrency payments directly on your store via the Utrust API.
-Find out more about Utrust at [utrust.com](https://utrust.com).
+Accept Bitcoin, Ethereum, eGLD, UTK Token, and other juicy cryptocurrencies directly on your online store and get settled in the currency of your choice.
+
+With xMoney Crypto Pay, grow your business by allowing your customers to enjoy a vast portfolio of fiat & crypto currencies when purchasing goods and services, with a zero-fee exchange rate.
+
+Find out more at [xMoney.com/crypto-pay](https://xmoney.com/crypto-pay)
+
+xMoney is the world's digital payments network for all things money. Crypto-enabled & Fiat-ready, with a suite of solutions for anyone, anywhere. Powered by [MultiversX](https://multiversx.com/).
 
 ## Requirements
 
-- Utrust Merchant account
+- xMoney Crypto Merchant account
 - WHMCS version 7 or above
 
 ## Install
@@ -25,7 +28,7 @@ Find out more about Utrust at [utrust.com](https://utrust.com).
 
 ### On the Utrust side
 
-1. Go to [Utrust merchant dashboard](https://merchants.utrust.com).
+1. Go to [xMoney Crypto merchant dashboard](https://merchants.crypto.xmoney.com/).
 2. Log in or sign up if you didn't yet.
 3. On the left sidebar choose _Integrations_.
 4. Select _WHMCS_ and click the button _Generate Credentials_.
@@ -47,7 +50,7 @@ Find out more about Utrust at [utrust.com](https://utrust.com).
 
 Feel free to reach [by opening an issue on GitHub](https://github.com/utrustdev/utrust-for-WHMCS/issues/new) if you need any help with the Utrust for WHMCS plugin.
 
-If you're having specific problems with your account, then please contact support@utrust.com.
+If you're having specific problems with your account, then please contact [support@xmoney.com](https://mailto:support@xmoney.com/).
 
 In both cases, our team will be happy to help :purple_heart:.
 
@@ -61,6 +64,6 @@ Our team is eager to welcome new contributors into the mix :blush:.
 
 ## License
 
-The Utrust for WHMCS plugin is maintained with :purple_heart: by the Utrust development team, and is available to the public under the GNU GPLv3 license. Please see [LICENSE](https://github.com/utrustdev/utrust-for-WHMCS/blob/master/LICENSE) for further details.
+The xMoney Crypto for WHMCS plugin is maintained with :purple_heart: by the xMoney Crypto development team, and is available to the public under the GNU GPLv3 license. Please see [LICENSE](https://github.com/utrustdev/utrust-for-WHMCS/blob/master/LICENSE) for further details.
 
-&copy; Utrust 2020
+&copy; Utrust 2024
