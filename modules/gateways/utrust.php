@@ -148,8 +148,8 @@ function utrust_link($params)
     ];
     try {
         // Validate data
-        $orderIsValid = Validator::order($orderData);
-        $customerIsValid = Validator::customer($customerData);
+        $orderIsValid = (new Validator())->order($orderData);
+        $customerIsValid = (new Validator())->customer($customerData);
 
         // Make the API request
         if ($orderIsValid == true && $customerIsValid == true) {
